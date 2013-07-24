@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/22 22:52:50.000.874,=C:\Users\Johni\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/03/20 20:48:58.000.964,=C:\Users\Johni\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/04/04 20:23:22.000.189,=C:\Users\Johni\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/04/04 20:23:42.000.334,C:\Users\Johni\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\UnitPrincipal.pas</Transaction>
+    <Transaction>2012/04/04 20:23:42.000.334,C:\Users\Johni\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\UnitPrincipal.dfm</Transaction>
+    <Transaction>2012/04/04 20:23:49.000.553,C:\Users\Johni\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\ControleVersaoLayout.dproj</Transaction>
+    <Transaction>2012/04/04 20:30:59.000.385,=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit2.pas</Transaction>
+    <Transaction>2012/04/04 20:31:06.000.520,=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas</Transaction>
+    <Transaction>2012/04/04 20:31:19.000.276,C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\UnitRegistroR01.pas</Transaction>
+    <Transaction>2012/04/04 20:31:35.000.287,=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas</Transaction>
+    <Transaction>2012/04/04 20:31:41.000.593,C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\UnitRegistro.pas</Transaction>
+    <Transaction>2012/04/04 21:00:20.000.806,=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas</Transaction>
+    <Transaction>2012/04/04 21:00:32.000.995,C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\UnitRegistroR02.pas=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas</Transaction>
+    <Transaction>2012/04/04 21:23:15.000.057,=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas</Transaction>
+    <Transaction>2012/04/04 21:23:36.000.756,C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\UnitRegistrosArquivo.pas=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas</Transaction>
+    <Transaction>2012/04/06 22:43:22.000.673,=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas</Transaction>
+    <Transaction>2012/04/06 22:43:33.000.284,C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\UnitRegistroR03.pas=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas</Transaction>
+    <Transaction>2012/04/08 15:30:01.000.957,=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas</Transaction>
+    <Transaction>2012/04/08 15:30:14.000.316,C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\Unit1.pas=C:\Users\Johni\Documents\RAD Studio\Projects\ControleVersaoLayout\UnitRegistroUtils.pas</Transaction>
+  </Transactions>
+</BorlandProject>
